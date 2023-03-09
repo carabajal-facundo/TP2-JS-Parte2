@@ -13,7 +13,7 @@ document.write("</ul>");
 */
 
 // Punto 2
-
+/*
 let ciudades = [];
 let stop = confirm("Desea ingresar una ciudad?");
 let cont = 0;
@@ -61,3 +61,4 @@ if(stop){
     }
     else document.write("No se hay mas de dos elementos :(<br>");
 }
+*/
